@@ -15,9 +15,9 @@ Links
 
 Screenshots
 -----------
-<a href="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot1.png"><img src="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot1.png" width="300"></a>
-<a href="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot2.png"><img src="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot2.png" width="300"></a>
-<a href="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot3.png"><img src="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot3.png" width="300"></a>
+<a href="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot1.png"><img src="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot1.png" width="240"></a>
+<a href="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot2.png"><img src="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot2.png" width="240"></a>
+<a href="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot3.png"><img src="https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot3.png" width="240"></a>
 
 Team of the Imagination
 -----------------------
