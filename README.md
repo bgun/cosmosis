@@ -13,6 +13,12 @@ Links
 - [Demo](http://hacktheuniverse.github.io/cosmos/)
 - [Presentation](https://docs.google.com/presentation/d/1pKExnLUkeNP2eFpOiL54bp_6llPu2RKcepp5WGyXRhc/edit?usp=sharing)
 
+Screenshots
+-----------
+![](https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot1.png =400x300)
+![](https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot2.png =400x300)
+![](https://raw.githubusercontent.com/bgun/cosmosis/master/screenshot3.png =400x300)
+
 Team of the Imagination
 -----------------------
 + [Ben](http://github.com/bgun) - Javascript, Node, WebGL
